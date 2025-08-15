@@ -36,8 +36,8 @@
 }
 
 .section {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-column: auto;
 }
 
 .section h2 {
