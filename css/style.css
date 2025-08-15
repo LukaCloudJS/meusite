@@ -1,17 +1,18 @@
 * {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .header {
     display: flex;
+    justify-content: left;
+    align-content: center;
     align-items: center;
-    gap: 1rem;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem;
     background: black;
-    box-shadow: 0 0 20px 3px black;
+    box-shadow: 0 0 20px 3px black
 }
 
 .header img {
@@ -21,32 +22,34 @@
 
 .header p {
     color: white;
-    font-family: 'positivefor', sans-serif; /* usa fallback */
+    font-family: 'positivefor';
+    text-align: center;
     font-size: 1.5rem;
 }
 
 .note {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
     justify-content: center;
-    margin: 20px 0;
     text-align: center;
 }
 
 .section {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    display: flex;
+    flex-direction: column;
     gap: 1rem;
     padding: 1rem;
 }
 
 .section h2 {
-    grid-column: 1 / -1; /* ocupa toda a linha */
-    text-align: center;
-    background: black;
+    align-self: center;
     color: white;
     border-radius: 1rem;
-    padding: 0.5rem 1rem;
-    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    margin-bottom: 10px;
 }
 
 .tasks {
@@ -54,17 +57,17 @@
     padding: 1rem;
     outline: 0.2rem solid black;
     font-size: 1rem;
-    background: white;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
 }
 
 .tasks p {
+    margin-left: 1rem;
     font-weight: bold;
-    margin-top: 0.5rem;
 }
 
 footer {
     text-align: center;
-    padding: 1rem;
-    background: #222;
-    color: white;
+    align-self: center;
 }
