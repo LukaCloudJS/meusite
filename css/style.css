@@ -1,18 +1,17 @@
 * {
     font-family: 'Poppins', sans-serif;
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .header {
     display: flex;
-    justify-content: left;
-    align-content: center;
     align-items: center;
-    padding: 0.5rem;
+    gap: 1rem;
+    padding: 0.5rem 1rem;
     background: black;
-    box-shadow: 0 0 20px 3px black
+    box-shadow: 0 0 20px 3px black;
 }
 
 .header img {
@@ -22,16 +21,14 @@
 
 .header p {
     color: white;
-    font-family: 'positivefor';
-    text-align: center;
+    font-family: 'positivefor', sans-serif; /* usa fallback */
     font-size: 1.5rem;
 }
 
 .note {
     display: flex;
-    margin-top: 20px;
-    margin-bottom: 20px;
     justify-content: center;
+    margin: 20px 0;
     text-align: center;
 }
 
@@ -43,13 +40,13 @@
 }
 
 .section h2 {
-    align-self: center;
+    grid-column: 1 / -1; /* ocupa toda a linha */
+    text-align: center;
+    background: black;
     color: white;
     border-radius: 1rem;
-    padding: 0.5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-    margin-bottom: 10px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .tasks {
@@ -57,17 +54,17 @@
     padding: 1rem;
     outline: 0.2rem solid black;
     font-size: 1rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+    background: white;
 }
 
 .tasks p {
-    margin-left: 1rem;
     font-weight: bold;
+    margin-top: 0.5rem;
 }
 
 footer {
     text-align: center;
-    align-self: center;
+    padding: 1rem;
+    background: #222;
+    color: white;
 }
