@@ -18,6 +18,14 @@ const materias = [
   {
     name: "• Desafio Crescer 14 - Resolução de Itens",
     response: ["1: A", "2: B", "3: B", "4: E", "5: B", "6: A"]
+  },
+  {
+    name: "• Desafio Crescer 15 - Função afim e o gráfico no plano...",
+    response: ["1: B", "2: C", "3: E", "4: C", "5: D", "6: A"]
+  },
+  {
+    name: "• Desafio Crescer 15 - Resolução de Itens",
+    response: ["1: B", "2: D", "3: A", "4: C", "5: A", "6: B"]
   }]
 },
 {
