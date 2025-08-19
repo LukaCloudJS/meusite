@@ -1,4 +1,4 @@
-const materias = [
+name materias = [
 {
   name: "Matemática",
   color: "#2B66B9",
@@ -39,6 +39,14 @@ const materias = [
   {
     name: "• Desafio Crescer 14 - Resolução de Itens",
     response: ["1: A", "2: C", "3: A", "4: D", "5: B", "6: E"]
+  },
+  {
+    name: "• Desafio Crescer 15 - Entre fatos e opiniôes nos diferentes...",
+    response: ["1: B", "2: C", "3: D", "4: E", "5: B", "6: E"]
+  },
+  {
+    name: "• Desafio Crescer 15 - Resolução de Itens",
+    response: ["1: D", "2: B", "3: D", "4: C", "5: C", "6: A"]
   }]
 }]
 
