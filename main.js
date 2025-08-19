@@ -1,4 +1,4 @@
-name materias = [
+const materias = [
 {
   name: "Matemática",
   color: "#2B66B9",
