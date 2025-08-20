@@ -10,7 +10,7 @@
     justify-content: left;
     align-content: center;
     align-items: center;
-    padding: 0.5rem;
+    padding: 5px;
     background: black;
     box-shadow: 0 0 20px 3px black
 }
@@ -29,10 +29,14 @@
 
 .note {
     display: flex;
-    margin-top: 20px;
-    margin-bottom: 20px;
     justify-content: center;
     text-align: center;
+    align-self: center;
+}
+
+.note img {
+    width: 80vw;
+    height: auto
 }
 
 .section {
