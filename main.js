@@ -4,27 +4,27 @@ const materias = [
   color: "#2B66B9",
   tasks: [
   {
-    name: "• Desafio Crescer 13 - Equação linear do 1º grau...",
+    name: "13 - Equação linear do 1º grau e a reta no plano cartesiano",
     response: ["1: D", "2: A", "3: B", "4: E", "5: C", "6: D"]
   },
   {
-    name: "• Desafio Crescer 13 - Resolução de Itens",
+    name: "13 - Resolução de Itens",
     response: ["1: A", "2: C", "3: D", "4: E", "5: A", "6: C"]
   },
   {
-    name: "• Desafio Crescer 14 - A inclinação da reta...",
+    name: "14 - A inclinação da reta e sua equação linear",
     response: ["1: E", "2: A", "3: C", "4: C", "5: B", "6: A"]
   },
   {
-    name: "• Desafio Crescer 14 - Resolução de Itens",
+    name: "14 - Resolução de Itens",
     response: ["1: A", "2: B", "3: B", "4: E", "5: B", "6: A"]
   },
   {
-    name: "• Desafio Crescer 15 - Função afim e o gráfico no plano...",
+    name: "15 - Função afim e o gráfico no plano cartesiano",
     response: ["1: B", "2: C", "3: E", "4: C", "5: D", "6: A"]
   },
   {
-    name: "• Desafio Crescer 15 - Resolução de Itens",
+    name: "15 - Resolução de Itens",
     response: ["1: B", "2: D", "3: A", "4: C", "5: A", "6: B"]
   }]
 },
@@ -33,27 +33,27 @@ const materias = [
   color: "#F54927",
   tasks: [
   {
-    name: "• Desafio Crescer 13 - A tese no gênero...",
+    name: "13 - A tese no gênero resenha crítica",
     response: ["1: C", "2: D", "3: B", "4: C", "5: B", "6: C"]
   },
   {
-    name: "• Desafio Crescer 13 - Resolução de Itens",
+    name: "13 - Resolução de Itens",
     response: ["1: A", "2: C", "3: E", "4: B", "5: C", "6: C"]
   },
   {
-    name: "• Desafio Crescer 14 - Argumentando sobre a tese...",
+    name: "14 - Argumentando sobre a tese na resenha crítica",
     response: ["1: A", "2: E", "3: C", "4: B", "5: D", "6: C"]
   },
   {
-    name: "• Desafio Crescer 14 - Resolução de Itens",
+    name: "14 - Resolução de Itens",
     response: ["1: A", "2: C", "3: A", "4: D", "5: B", "6: E"]
   },
   {
-    name: "• Desafio Crescer 15 - Entre fatos e opiniôes nos diferentes...",
+    name: "15 - Entre fatos e opiniões nos diferentes textos",
     response: ["1: B", "2: C", "3: D", "4: E", "5: B", "6: E"]
   },
   {
-    name: "• Desafio Crescer 15 - Resolução de Itens",
+    name: "15 - Resolução de Itens",
     response: ["1: D", "2: B", "3: D", "4: C", "5: C", "6: A"]
   }]
 }]
@@ -70,9 +70,10 @@ for (const materia of materias) {
   for (const task of materia.tasks) {
     const taskF = document.createElement("div")
     taskF.setAttribute("class", "tasks")
-    taskF.setAttribute("style", `box-shadow: 2px 4px 0px 4px ${materia.color}`)
+    taskF.setAttribute("style", `box-shadow: 6px 8px 0px 2px rgba(0, 0, 0, 0.5)`)
     const name = document.createElement("h3")
     name.textContent = task.name
+    name.setAttribute("style", `background: ${materia.color}`)
     const response = document.createElement("p")
     response.innerHTML = task.response.join("<br>")
     taskF.appendChild(name)

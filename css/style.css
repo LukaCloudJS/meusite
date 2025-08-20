@@ -38,7 +38,7 @@
 .section {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 10px;
     padding: 1rem;
 }
 
@@ -54,7 +54,7 @@
 
 .tasks {
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 0;
     outline: 0.2rem solid black;
     font-size: 1rem;
     margin-left: 1rem;
@@ -62,7 +62,17 @@
     margin-bottom: 1rem;
 }
 
+.tasks h3 {
+    margin: 0;
+    border-top-right-radius: 1rem ;
+    border-top-left-radius: 1rem ;
+    padding: 0.5rem;
+    color: white;
+    background: burlywood
+}
+
 .tasks p {
+    margin: 0.5rem;
     margin-left: 1rem;
     font-weight: bold;
 }
