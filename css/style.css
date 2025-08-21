@@ -7,12 +7,26 @@
 
 .header {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     align-content: center;
     align-items: center;
     padding: 5px;
     background: black;
     box-shadow: 0 0 20px 3px black
+}
+
+.header .room {
+    padding-right: 10px;
+}
+
+.header div {
+    border: 0;
+    margin: 0;
+    padding-left: 10px;
+    display: flex;
+    justify-content: left;
+    align-content: center;
+    align-items: center;
 }
 
 .header img {
@@ -78,6 +92,7 @@
 .tasks p {
     margin: 0.5rem;
     margin-left: 1rem;
+    font-size: 18px;
     font-weight: bold;
 }
 
