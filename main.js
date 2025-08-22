@@ -64,7 +64,7 @@ for (const materia of materias) {
   const section = document.createElement("div")
   section.setAttribute("class", "section")
   const title = document.createElement("h2")
-  title.setAttribute("style", `background: ${materia.color}`)
+  title.setAttribute("style", `background: ${materia.color}; outline: 4px solid black`)
   title.textContent = materia.name
   section.appendChild(title)
   for (const task of materia.tasks) {

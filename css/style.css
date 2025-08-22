@@ -53,6 +53,21 @@
     height: auto
 }
 
+.subjects {
+    display: grid;
+    gap: 8px;
+    margin: 10px;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+}
+
+@media (min-width: 768px) {
+    .subjects {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+    }
+}
+
 .section {
     display: flex;
     flex-direction: column;
@@ -65,8 +80,8 @@
     color: white;
     border-radius: 1rem;
     padding: 0.5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 30%;
+    padding-right: 30%;
     margin-bottom: 10px;
 }
 
