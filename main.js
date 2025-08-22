@@ -83,3 +83,7 @@ for (const materia of materias) {
   
   subjectives.appendChild(section)
 }
+
+function anna() {
+  window.open("https://www.instagram.com/naclara_cakes_confeitaria")
+}
