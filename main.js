@@ -26,7 +26,16 @@ const materias = [
   {
     name: "15 - Resolução de Itens",
     response: ["1: B", "2: D", "3: A", "4: C", "5: A", "6: B"]
-  }]
+  },
+  {
+    name: "16 - O gráfico da função afim e sua lei de formação",
+    response: ["1: B", "2: C", "3: A", "4: E", "5: C", "6: A"]
+  },
+  {
+    name: "16 - Resolução de itens | **Pausado por falha da questão**",
+    response: ["1: D", "2: A", "3: B", "4: ?", "5: ?", "6: ?"]
+  }
+  ]
 },
 {
   name: "Português",
@@ -55,7 +64,16 @@ const materias = [
   {
     name: "15 - Resolução de Itens",
     response: ["1: D", "2: B", "3: D", "4: C", "5: C", "6: A"]
-  }]
+  },
+  {
+    name: "16 - As relações lógico-discursivas entre as partes do texto",
+    response: ["1: E", "2: D", "3: D", "4: D", "5: E", "6: E"]
+  },
+  {
+    name: "16 - Resolução de Itens",
+    response: ["1: C", "2: D", "3: D", "4: B", "5: E", "6: C"]
+  }
+  ]
 }]
 
 const subjectives = document.querySelector(".subjects")
