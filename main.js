@@ -32,8 +32,8 @@ const materias = [
     response: ["1: B", "2: C", "3: A", "4: E", "5: C", "6: A"]
   },
   {
-    name: "16 - Resolução de itens | **Pausado por falha da questão**",
-    response: ["1: D", "2: A", "3: B", "4: ?", "5: ?", "6: ?"]
+    name: "16 - Resolução de itens",
+    response: ["1: D", "2: A", "3: B", "4: C", "5: E", "6: D"]
   }
   ]
 },
