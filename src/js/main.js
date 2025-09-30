@@ -613,7 +613,12 @@ for (const materia of materias.answers) {
         name.textContent = task.name
         name.setAttribute("style", `background: ${randomColor}`)
         const response = document.createElement("p")
-        response.innerHTML = task.answers.join("<br>")
+        let answer = ``
+        let count = 1
+        for (const tk of task.answers) {
+            answer += `${count++} - ${tk}<br>` 
+        }
+        response.innerHTML = answer
         taskF.appendChild(name)
         taskF.appendChild(response)
         section.appendChild(taskF)
