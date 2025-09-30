@@ -559,7 +559,7 @@ const materias = {
             {
                "answers": [
                   "D) 1110.",
-                  "",
+                  "E) 418,00.",
                   "",
                   "",
                   "",
@@ -630,3 +630,4 @@ for (const materia of materias.answers) {
 function anna() {
     window.open("https://www.instagram.com/naclara_cakes_confeitaria")
 }
+
