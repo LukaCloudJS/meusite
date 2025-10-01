@@ -591,6 +591,77 @@ const materias = {
             }
          ],
          "title": "Matemática"
+      },
+      {
+         "lessons": [
+            {
+               "answers": [
+                   "C) Deve retomar a tese e apresentar uma proposta de intervenção para solucionar o problema discutido.",
+                   "D) É necessário apresentar, preferencialmente, elementos como agente, ação, modo/meio e finalidade.",
+                   "B) Introduzir um tema que não foi abordado no desenvolvimento.",
+                   "A) “Portanto...”",
+                   "C) O agente pode ser qualquer entidade, pública ou privada, desde que tenha condições de executar a ação proposta.",
+                   "B) Ações como promover campanhas, criar leis, oferecer atendimento especializado e investir em educação são exemplos válidos."
+               ],
+               "name": "Aula 5 - Proponha uma solução para o problema"
+            },
+            {
+               "answers": [
+                   "c) Ampliar e modernizar a frota de transporte coletivo, utilizando veículos menos poluentes, para tornar o deslocamento mais eficiente e sustentável.",
+                   "c) 'A fim de reduzir os índices de violência urbana.'",
+                   "a) Implementar programas educacionais sobre consumo consciente nas escolas.",
+                   "d) Criar centros de convivência para idosos, promovendo atividades físicas, culturais e de socialização.",
+                   "d) ”Substituir esse tipo de campanha” por “essa iniciativa”, ficando: “Essa iniciativa visa conscientizar...”",
+                   "c) “Logo, faz-se indispensável que o Ministério da Educação implemente ações nas escolas. Além disso, é fundamental que a mídia contribua, esclarecendo a população sobre o tema.”"
+               ],
+               "name": "Aula 5.1 - Proponha uma solução para o problema"
+            },
+            {
+               "answers": [
+                   "c) Ministério da Educação e instituições de ensino.",
+                   "d) Desenvolver ferramentas de checagem de informações.",
+                   "e) Veiculação de conteúdos educativos nas redes sociais e na televisão.",
+                   "c) Conscientizar os estudantes sobre a importância da saúde mental.",
+                   "c) Utilizando vídeos, cartilhas e campanhas em escolas e comunidades",
+                   "a) Consequentemente, trazer bem-estar social."
+               ],
+               "name": "Aula 5.2 - Proponha uma solução para o problema"
+            },
+            {
+               "answers": [
+                   "c) Convencer o leitor por meio de argumentos sobre um ponto de vista.",
+                   "b) Introdução – Desenvolvimento – Conclusão com proposta de",
+                   "c) Contextualize o tema e apresente uma tese clara.",
+                   "a) A defesa da tese com argumentos, dados e exemplos.",
+                   "d) Agente, ação, meio/modo, efeito e detalhamento.",
+                   "b) A coerência entre tese, argumentos e proposta de intervenção é fundamental para garantir a progressão textual e a defesa do ponto de vista."
+               ],
+               "name": "Aula 6 - A sua redação é um monumento"
+            },
+            {
+               "answers": [
+                   "d) O impacto da coleta e uso de informações pessoais sobre as escolhas dos usuários.",
+                   "c) À marginalização e preconceito enfrentados por pessoas com transtornos mentais.",
+                   "a) Apresentar soluções para o desrespeito a diferentes crenças no país.",
+                   "b) Defesa de políticas públicas de reconhecimento e respeito cultural.",
+                   "e) A desigualdade no acesso à produção e consumo de obras cinematográficas.",
+                   "b) À falta de documentação que impede o reconhecimento de direitos básicos."
+               ],
+               "name": "Aula 6.1 - A sua redação é um monumento"
+            },
+            {
+               "answers": [
+                   "c) Para sustentar que a educação precisa formar pessoas críticas e éticas.",
+                   "a) Para argumentar que o autoritarismo depende da passividade dos cidadãos.",
+                   "d) Para sustentar a importância da resistência pacífica diante de injustiças.",
+                   "e) Para refletir sobre os limites da liberdade formal frente aos desejos humanos.",
+                   "b) Para exemplificar os perigos da impunidade e da desigualdade no acesso à justiça.",
+                   "e) Para destacar a importância do vínculo humano no processo de aprendizagem."
+               ],
+               "name": "Aula 6.2 - A sua redação é um monumento"
+            }
+         ],
+         "title": "Redação"
       }
    ]
 }
@@ -630,4 +701,5 @@ for (const materia of materias.answers) {
 function anna() {
     window.open("https://www.instagram.com/naclara_cakes_confeitaria")
 }
+
 
