@@ -532,7 +532,7 @@ const materias = {
                   "B) 11.",
                   "A) R$ 2,00 menor."
                ],
-               "name":"Aula 4 - Resolvendo situações do nosso cotidiano com porcentagens"
+               "name": "Aula 4 - Resolvendo situações do nosso cotidiano com porcentagens"
             },
             {
                "answers": [
@@ -543,7 +543,7 @@ const materias = {
                   "D) 8,8",
                   "D) R$ 3.600,00."
                ],
-               "name":"Aula 4.1 - Resolvendo situações do nosso cotidiano com porcentagens"
+               "name": "Aula 4.1 - Resolvendo situações do nosso cotidiano com porcentagens"
             },
             {
                "answers": [
@@ -554,41 +554,140 @@ const materias = {
                   "D) 48",
                   "B) 10.000"
                ],
-               "name":"Aula 4.2 - Resolvendo situações do nosso cotidiano com porcentagens"
+               "name": "Aula 4.2 - Resolvendo situações do nosso cotidiano com porcentagens"
             },
             {
                "answers": [
                   "D) 1110.",
                   "E) 418,00.",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "e) 672.",
+                  "e) 1,95.",
+                  "c) 4,0.",
+                  "e) 2,5."
                ],
-               "name":"Aula 5 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
+               "name": "Aula 5 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
             },
             {
                "answers": [
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "e) 286,00.",
+                  "a) 100.",
+                  "c) 36%.",
+                  "e) Círculo.",
+                  "e) 5. ",
+                  "e) não será suficiente, pois a área da nova região a ser pavimentada mede"
                ],
-               "name":"Aula 5.1 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
+               "name": "Aula 5.1 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
             },
             {
                "answers": [
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  ""
+                  "b) 22.280",
+                  "b) R$ 35,00.",
+                  "e) Maior que 700m².",
+                  "d) IV.",
+                  "b) 24. ",
+                  "e) V."
                ],
-               "name":"Aula 5.2 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
-            }
+               "name": "Aula 5.2 - Reconhecendo e trabalhando com áreas, na prova ou no cotidiano"
+            },
+            {
+               "answers": [
+                  "a) 3.750.",
+                  "a) 14.",
+                  "b) 6 cm.",
+                  "d) eu nao consigo digitar isso aqui :/",
+                  "c) 320π",
+                  "d) 1/4"
+               ],
+               "name": "Aula 6 - Reconhecendo e trabalhando com volumes, na prova ou no cotidiano"
+            },
+            {
+               "answers": [
+                  "a) 50 ",
+                  "a) I.",
+                  "d) 18",
+                  "a) 1,6.",
+                  "c) 3,60.",
+                  "b) R$ 21,60. "
+               ],
+               "name": "Aula 6.1 - Reconhecendo e trabalhando com volumes, na prova ou no cotidiano"
+            },
+            {
+               "answers": [
+                  "d) 1000/π",
+                  "c) 0,9  ",
+                  "b) 2R",
+                  "c) 2.400 unidades. ",
+                  "c) 408.",
+                  "b) 5555 "
+               ],
+               "name": "Aula 6.2 - Reconhecendo e trabalhando com volumes, na prova ou no cotidiano"
+            },
+            {
+               "answers": [
+                  "B) eu ja tinha feito, entao eu nao tenho o texto da resposta :/",
+                  "B)",
+                  "D)",
+                  "D)",
+                  "D)",
+                  "A)"
+               ],
+               "name": "Aula 7 - Percebendo e trabalhando com situações que envolvam variações fixas"
+            },
+            {
+               "answers": [
+                  "C)",
+                  "D)",
+                  "B)",
+                  "B)",
+                  "D)",
+                  "C)"
+               ],
+               "name": "Aula 7.1 - Percebendo e trabalhando com situações que envolvam variações fixas"
+            },
+            {
+               "answers": [
+                  "d) y = 10000 – 400t",
+                  "e) 10,0",
+                  "c)",
+                  "b) Plano B.",
+                  "d) H4.",
+                  "c) 498."
+               ],
+               "name": "Aula 7.2 - Percebendo e trabalhando com situações que envolvam variações fixas"
+            },
+            {
+               "answers": [
+                  "a)",
+                  "d) 38,0",
+                  "b) 7.",
+                  "c) 36.",
+                  "d) IV.",
+                  "a) 116000 "
+               ],
+               "name": "Aula 8 - Percebendo e trabalhando com situações que envolvam variações quadráticas"
+            },
+            {
+               "answers": [
+                  "c) III.  ",
+                  "b) R$ 10,00",
+                  "b) 30 ",
+                  "d) 25 e 25",
+                  "d) − x2 + 22x − 40  ",
+                  "e) V(x) - 900 - 30x - 2x²"
+               ],
+               "name": "Aula 8.1 - Percebendo e trabalhando com situações que envolvam variações quadráticas"
+            },
+            {
+               "answers": [
+                  "a) R$ 168.100,00.",
+                  "a) 0.",
+                  "d) um pátio com 100m2.",
+                  "c) v = 2x - 1/50 x²",
+                  "d) 25/3",
+                  "e)"
+               ],
+               "name": "Aula 8.2 - Percebendo e trabalhando com situações que envolvam variações quadráticas"
+            },
          ],
          "title": "Matemática"
       },
@@ -596,70 +695,481 @@ const materias = {
          "lessons": [
             {
                "answers": [
-                   "C) Deve retomar a tese e apresentar uma proposta de intervenção para solucionar o problema discutido.",
-                   "D) É necessário apresentar, preferencialmente, elementos como agente, ação, modo/meio e finalidade.",
-                   "B) Introduzir um tema que não foi abordado no desenvolvimento.",
-                   "A) “Portanto...”",
-                   "C) O agente pode ser qualquer entidade, pública ou privada, desde que tenha condições de executar a ação proposta.",
-                   "B) Ações como promover campanhas, criar leis, oferecer atendimento especializado e investir em educação são exemplos válidos."
+                  "d)  carbono.",
+                  "d)  oxigênio.",
+                  "a)  nitrogênio e fósforo.",
+                  "e)  nitrogênio.",
+                  "a)  nitratação.",
+                  "e)  V."
+               ],
+               "name": "Aula 2 - Ciclos biogeoquímicos"
+            },
+            {
+               "answers": [
+                  "d) aumento na quantidade de carbono presente na atmosfera.",
+                  "a)  provocando o aumento do nível dos oceanos devido ao derretimento das geleiras.",
+                  "d)  do carbono.",
+                  "c) a vida na Terra depende, em última análise, da energia proveniente do Sol.",
+                  "d)  reduzir a poluição e a exploração dos recursos naturais, otimizar o uso da água potável e aumentar a captação da água da chuva.",
+                  "d)  captar água da chuva em cisternas, permitindo seu adequado tratamento e armazenamento para consumo."
+               ],
+               "name": "Aula 2.1 - Ciclos biogeoquímicos"
+            },
+            {
+               "answers": [
+                  "e) degradação dos mananciais e desperdício no consumo.",
+                  "a) queima de combustíveis em veículos pesados e da produção de metais a partir de sulfetos metálicos.",
+                  "d) alagamentos e desequilíbrio da fauna e da flora.",
+                  "c) II e III.",
+                  "c) apenas em I e III.",
+                  "d) I e III."
+               ],
+               "name": "Aula 2.2 - Ciclos biogeoquímicos"
+            },
+            {
+               "answers": [
+                  "d) assemelham-se às usinas nucleares no que diz respeito à conversão de energia térmica em cinética e, depois, em elétrica.",
+                  "c) formação de florestas energéticas em terras impróprias para a agricultura.",
+                  "e) V",
+                  "d) todas as alternativas requerem trabalho humano para a obtenção de energia.",
+                  "b) o investimento por quilowatt exigido para a construção de parques eólicos ser de aproximadamente 20 vezes o necessário para a construção de hidrelétricas.",
+                  "d) mais da metade da radiação solar que é absorvida diretamente pelo solo é devolvida para a atmosfera."
+               ],
+               "name": "Aula 3 - Consumo sustentável dos recursos energéticos"
+            },
+            {
+               "answers": [
+                  "b) a cobertura de vidro deixa passar a energia luminosa e reduz a perda de energia térmica utilizada para o aquecimento.",
+                  "e) Vento.",
+                  "a) cinética e elétrica.",
+                  "b) menor, pois o aumento do uso de derivados da cana-de-açúcar e de hidreletricidade não compensou a diminuição do uso de lenha e carvão vegetal.",
+                  "a) a geração de eletricidade nas usinas hidrelétricas exige a manutenção de um dado fluxo de água nas barragens.",
+                  "a) energia resultante de processo químico –> energia potencial gravitacional –> energia cinética."
+               ],
+               "name": "Aula 3.1 - Consumo sustentável dos recursos energéticos"
+            },
+            {
+               "answers": [
+                  "a) pelo aquecimento das águas, utilizadas para refrigeração da usina, que alteraria a fauna marinha.",
+                  "e) I, II e III são corretas.",
+                  "c) cerca de duas vezes, quando se substitui fogão a lenha por fogão a gás.",
+                  "a) do gás natural em uma usina termoelétrica.",
+                  "d) utilizarem fontes de energia renováveis.",
+                  "d) nucleares e termelétricas utilizarem processos de transformação de calor em trabalho útil, no qual as perdas de calor são sempre bastante elevadas."
+               ],
+               "name": "Aula 3.2 - Consumo sustentável dos recursos energéticos"
+            },
+         ],
+         "title": "Química"
+      },
+      {
+         "lessons": [
+            {
+               "answers": [
+                  "e) Todo corpo continua em seu estado de repouso ou de movimento uniforme em uma linha reta, a menos que sobre ele estejam agindo forças com resultante não nulas.",
+                  "a) a lei da inércia.",
+                  "a) inércia.",
+                  "a) de mesmo módulo e direção; em sentido oposto ao.",
+                  "b) Obedecendo à Lei da Ação e Reação, o nadador imprime uma força na água para trás e a água, por sua vez, empurra-o para frente.",
+                  "d) Somente nas afirmativas I e IV."
+               ],
+               "name": "Aula 1 - Leis de Newton e suas aplicações"
+            },
+            {
+               "answers": [
+                  "e) cuja intensidade é o produto da massa do corpo pela aceleração da gravidade local.",
+                  "a) correta, uma vez que, em um planeta de gravidade menor, seu peso será realmente menor, porém com a mesma massa.",
+                  "c)",
+                  "b) 4.",
+                  "d) 2,0 X 10³ N",
+                  "b) 2."
+               ],
+               "name": "Aula 1.1 - Leis de Newton e suas aplicações"
+            },
+            {
+               "answers": [
+                  "e) 3,0 m/s².",
+                  "a) 340.",
+                  "b) 8,0 N.",
+                  "c) 6.",
+                  "d) A aceleração dos corpos é de 5,0 m/s².",
+                  "c) a força de contato que A exerce em B e a aceleração são respectivamente 5 N e 5 m/s²."
+               ],
+               "name": "Aula 1.2 - Leis de Newton e suas aplicações"
+            },
+            {
+               "answers": [
+                  "b) forma de energia em trânsito/transferência.",
+                  "b) a temperatura dos três corpos é a mesma.",
+                  "c) Não, pois calor é energia térmica em trânsito.",
+                  "c) Minimizar a perda de calor pela casa e pelos corpos.",
+                  "c) a temperatura do corpo 1 seja menor que a do corpo 2.",
+                  "a) A temperatura da água pode ficar constante durante o tempo em que estiver fervendo."
+               ],
+               "name": "Aula 2 - Calorimetria"
+            },
+            {
+               "answers": [
+                  "d) restringir a perda de calor para o ambiente.",
+                  "a) a temperatura da água permanece constante durante os processos de mudança de fase.",
+                  "a) calça tem maior capacidade térmica do que o tecido da camisa.",
+                  "d) 59280 cal.",
+                  "c) A capacidade térmica do corpo A é 2 cal/ºC.",
+                  "b) a prata."
+               ],
+               "name": "Aula 2.1 - Calorimetria"
+            },
+            {
+               "answers": [
+                  "d) 50 s",
+                  "e) 2,4⋅103",
+                  "c) 6 000",
+                  "d) 9400 cal.",
+                  "b) 0,125",
+                  "c) 0,80"
+               ],
+               "name": "Aula 2.2 - Calorimetria"
+            },
+            {
+               "answers": [
+                  "c) nos metais.",
+                  "b) efeito Joule;",
+                  "a) energia.",
+                  "e) I, II e III.",
+                  "d) qualquer um dos fornos, pois o consumo de energia depende apenas da potência.",
+                  "b) corrente elétrica superior ao máximo que a tomada múltipla pode suportar."
+               ],
+               "name": "Aula 3 - Corrente elétrica, energia elétrica e resistência elétrica"
+            },
+            {
+               "answers": [
+                  "e) 600",
+                  "d) churrasqueira elétrica.",
+                  "c) 5 400.",
+                  "b) 30 A",
+                  "b) 8,1.",
+                  "d) R$ 15,00."
+               ],
+               "name": "Aula 3.1 - Corrente elétrica, energia elétrica e resistência elétrica"
+            },
+            {
+               "answers": [
+                  "a) 0,5",
+                  "d) A lâmpada irá brilhar fracamente, pois com a metade da tensão nominal, a corrente elétrica também será menor e a potência dissipada será menos da metade da nominal.",
+                  "e) 170Ω.",
+                  "e)",
+                  "e) quarta parte da área da seção reta do fio.",
+                  "a) 0,3."
+               ],
+               "name": "Aula 3.2 - Corrente elétrica, energia elétrica e resistência elétrica"
+            },
+         ],
+         "title": "Física"
+      },
+      {
+         "lessons": [
+            {
+               "answers": [
+                  "c) Remoção dos recipientes que possam acumular água, porque as larvas do mosquito se desenvolvem nesse meio.",
+                  "a) A prevenção de diversas doenças infectocontagiosas em todo o mundo.",
+                  "a) endemia, pois se concentra em uma área geográfica restrita desse continente.",
+                  "b) fornecem uma barreira de proteção contra as partículas virais liberadas no ar.",
+                  "a) I",
+                  "c) vitamina A, necessária para a formação de estruturas fotorreceptoras."
+               ],
+               "name": "Aula 2 - Educação em saúde"
+            },
+            {
+               "answers": [
+                  "b) vacina contra o vírus da febre amarela, soro antiofídico caso seja picado por uma cobra e antibiótico caso entre em contato com a Leptospira sp.",
+                  "e) Leishmaniose visceral.",
+                  "c) doença de Chagas, dengue, febre amarela e leishmaniose.",
+                  "e) Aproximando as pessoas das áreas de ocorrência de mosquitos.",
+                  "d) competição do vírus e da bactéria no hospedeiro.",
+                  "d) o tratamento de doenças nos estágios iniciais de seu desenvolvimento."
+               ],
+               "name": "Aula 2.1 - Educação em saúde"
+            },
+            {
+               "answers": [
+                  "e) Leishmaniose.",
+                  "e) esquistossomose.",
+                  "b) alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.",
+                  "c) febres constantes e intermitentes associadas à fadiga e dores de cabeça, que afastam o doente de suas atividades.",
+                  "b) Combater o mosquito Anopheles, evitar o contato com a água suja acumulada pelas enchentes, combater o mosquito flebótomo e eliminar os caramujos do gênero Biomphalaria.",
+                  "a) o índice de infecção por LTA em Minas Gerais elevou- se muito nesse período"
+               ],
+               "name": "Aula 2.2 - Educação em saúde"
+            },
+         ],
+         "title": "Biologia"
+      },
+      {
+         "lessons": [
+            {
+               "answers": [
+                  "b) Ainda que haja falhas o ser humano, é a mais complexa criação da natureza.",
+                  "d) os elementos essenciais da oração são assim dispostos: Sujeito+ Verbo transitivo + Complemento verbal.",
+                  "d) Sujeito.",
+                  "d) O sociólogo francês Émile Durkheim afirma que a sociedade deve ser um corpo biológico coeso e equilibrado.",
+                  "b) vírgulas, para acrescentar uma caracterização de Davi Akkerman.",
+                  "a) Embora a Constituição Federal de 1988 assegure o acesso à cultura como direito de todos os cidadãos, percebe-se que, na atual realidade brasileira, não há o cumprimento dessa garantia, principalmente no que diz respeito ao cinema. Isso acontece devido à concentração de salas de cinema nos grandes centros urbanos e à condição cultural de que a arte é direcionada aos mais favorecidos economicamente."
+               ],
+               "name": "Aula 1 - Gramática aplicada ao texto"
+            },
+            {
+               "answers": [
+                  "d) Os casos 1 e 2 estão corretos quanto à concordância verbal e sintática.",
+                  "d) Apresentação de proposta de intervenção.",
+                  "d) Aposto.",
+                  "a) Medida.",
+                  "d) Adjunto adverbial.",
+                  "a ou b kk"
+               ],
+               "name": "Aula 1.1 - Gramática aplicada ao texto"
+            },
+            {
+               "answers": [
+                  "d) ela foca nas correções gramaticais do texto.",
+                  "d) ela permite raros erros de ortografia , mas é criteriosa nas questões de marcas de oralidade e sintaxe.",
+                  "c) é necessário o uso de ponto final (.) após 'país', no lugar da vírgula.",
+                  "d) Para separar dois períodos sintáticos.",
+                  "c) Hodiernamente, pouco se discute acerca do valor que a herança africana tem no país. Isso acontece em decorrência do racismo estrutural e da negligência estatal.",
+                  "a) Dessa forma, o Brasil não se diverge da realidade mostrada na série, pois muitos brasileiros foram criados com o pensamento de inferiorização da cultura africana por decorrência da ideologia eurocêntrica instaurada no país."
+               ],
+               "name": "Aula 1.2 - Gramática aplicada ao texto"
+            },
+            {
+               "answers": [
+                  "d) Tese.",
+                  "a) uma notícia recente com a fonte bem definida.",
+                  "c) problematizar o tema.",
+                  "d) Repertório e tese.",
+                  "d) Estigmas associados às doenças mentais no Brasil.",
+                  "d) trata-se das duas estruturas iniciais da argumentação."
+               ],
+               "name": "Aula 2 - Macroestrutura textual/produtividade do repertório"
+            },
+            {
+               "answers": [
+                  "d) Referência histórica.",
+                  "c) Dado estatístico.",
+                  "a) Constituição brasileira.",
+                  "b) Dados estatísticos nacionais.",
+                  "d) período em que se apresenta a opinião central do texto , que conduzirá a seleção dos argumentos, utilizando todas as palavras do tema.",
+                  "d) ... ainda existem desafios para valorização da herança africana no Brasil."
+               ],
+               "name": "Aula 2.1 - Macroestrutura textual/produtividade do repertório"
+            },
+            {
+               "answers": [
+                  "c) Em segunda análise, o preconceito da sociedade com os deficientes apresenta-se como outro fator preponderante para a dificuldade na efetivação da educação de pessoas surdas.",
+                  "c) Em segunda análise, o preconceito da sociedade com os deficientes apresenta-se como outro fator preponderante para a dificuldade na efetivação da educação de pessoas surdas.",
+                  "c) problematizar o tema na introdução.",
+                  "c) A construção dos feudos, muros que delimitavam uma determinada área no período da Idade Média, segregou milhares de pessoas e impossibilitou o acesso a bens que somente a nobreza podia usufruir. No contexto brasileiro contemporâneo, o cinema é um dos inúmeros meios de democratizar a cultura.",
+                  "d) Tema: Caminhos para combater a intolerância religiosa → Tese: deve-se combater as religiões no Brasil.",
+                  "a) O poeta modernista Oswald de Andrade relata, em 'Erro de Português', que, sob um dia de chuva, o índio foi vestido pelo português - uma denúncia à aculturação sofrida pelos povos indígenas com a chegada dos europeus ao território brasileiro. Paralelamente, no Brasil atual, há a manutenção de práticas prejudiciais não só aos silvícolas, mas também aos demais povos e comunidades tradicionais, como os pescadores."
+               ],
+               "name": "Aula 2.2 - Macroestrutura textual/produtividade do repertório"
+            },
+            {
+               "answers": [
+                  "d) Antecipadores argumentativos (D1 e D2).",
+                  "a) Na introdução.",
+                  "d) Tenha, em média, 3 períodos gramaticais por parágrafo.",
+                  "a) Defender o combate ao desmatamento e, em seguida, propor o aumento da agropecuária sem critérios.",
+                  "a) A coerência depende da organização lógica das ideias, enquanto a coesão utiliza elementos linguísticos para articular o texto.",
+                  "b) O uso de ferramentas digitais melhora a educação, desde que os educadores estejam preparados."
+               ],
+               "name": "Aula 3 - Projeto de texto"
+            },
+            {
+               "answers": [
+                  "a) Proposição de projeto de texto -> desenvolvimento das proposições argumentativas -> conclusão com solução para os problemas apresentados.",
+                  "c) de 3 a 5 períodos, contando com a apresentação, fundamentação, aprofundamento e fechamento argumentativo.",
+                  "c) A coerência é prejudicada apenas por erros gramaticais, não pela falta de lógica.",
+                  "c) Produtividade.",
+                  "c) A colaboração entre governos, empresas e cidadãos em ações concretas.",
+                  "b) A leitura contribui para a formação de cidadãos mais críticos e conscientes."
+               ],
+               "name": "Aula 3.1 - Projeto de texto"
+            },
+            {
+               "answers": [
+                  "b) As ideias são apresentadas de forma contraditória ao longo do texto.",
+                  "b) Falta de um ponto de vista definido ao longo do texto.",
+                  "c) Relação causal inadequada entre as orações.",
+                  "c) A proposta de intervenção contradiz a problemática discutida.",
+                  "b) Os exemplos utilizados não possuem relação entre si ou com a tese.",
+                  "d) Ao especificar que “culturas extremamente ricas vão sendo esquecidas pela população negra”, a argumentação exclui o restante da população brasileira."
+               ],
+               "name": "Aula 3.2 - Projeto de texto"
+            },
+            {
+               "answers": [
+                  "C) O governo anunciou cortes. Isso causou polêmica.",
+                  "A) Portanto",
+                  "C) A escola organizou uma feira. A feira ocorreu na quadra.",
+                  "C) Os alunos chegaram cedo. Foram direto para a sala.",
+                  "B) Substituição de termos por pronomes demonstrativos (esse/este/aquele). ",
+                  "d) A progressão temática deve ser clara, com cada parágrafo desenvolvendo uma nova etapa da argumentação."
+               ],
+               "name": "Aula 4 - Coesão textual"
+            },
+            {
+               "answers": [
+                  "A) Houve diversos problemas na escola. Isso preocupa os pais.",
+                  "d) Saiu de casa, embora estivesse cansado.",
+                  "D) Retoma a expressão 'o país do futuro'.",
+                  "a) Concessão.",
+                  "C) “Vamos resolver o problema.”",
+                  "A) “Ela pode desaparecer...”"
+               ],
+               "name": "Aula 4.1 - Coesão textual"
+            },
+            {
+               "answers": [
+                  "D) Uso do pronome “seu”, que pode referir-se a João ou Pedro.",
+                  "a) Uso de elipse do sujeito.  ",
+                  "c) A repetição lexical inadequada. ",
+                  "a) Elimina uma redundância, mantendo a clareza.  ",
+                  "a) Conclusão baseada em um paradoxo anterior.  ",
+                  "c) 'Manifestações' (segunda oração).  "
+               ],
+               "name": "Aula 4.2 - Coesão textual"
+            },
+            {
+               "answers": [
+                  "C) Deve retomar a tese e apresentar uma proposta de intervenção para solucionar o problema discutido.",
+                  "D) É necessário apresentar, preferencialmente, elementos como agente, ação, modo/meio e finalidade.",
+                  "B) Introduzir um tema que não foi abordado no desenvolvimento.",
+                  "A) “Portanto...”",
+                  "C) O agente pode ser qualquer entidade, pública ou privada, desde que tenha condições de executar a ação proposta.",
+                  "B) Ações como promover campanhas, criar leis, oferecer atendimento especializado e investir em educação são exemplos válidos."
                ],
                "name": "Aula 5 - Proponha uma solução para o problema"
             },
             {
                "answers": [
-                   "c) Ampliar e modernizar a frota de transporte coletivo, utilizando veículos menos poluentes, para tornar o deslocamento mais eficiente e sustentável.",
-                   "c) 'A fim de reduzir os índices de violência urbana.'",
-                   "a) Implementar programas educacionais sobre consumo consciente nas escolas.",
-                   "d) Criar centros de convivência para idosos, promovendo atividades físicas, culturais e de socialização.",
-                   "d) ”Substituir esse tipo de campanha” por “essa iniciativa”, ficando: “Essa iniciativa visa conscientizar...”",
-                   "c) “Logo, faz-se indispensável que o Ministério da Educação implemente ações nas escolas. Além disso, é fundamental que a mídia contribua, esclarecendo a população sobre o tema.”"
+                  "c) Ampliar e modernizar a frota de transporte coletivo, utilizando veículos menos poluentes, para tornar o deslocamento mais eficiente e sustentável.",
+                  "c) 'A fim de reduzir os índices de violência urbana.'",
+                  "a) Implementar programas educacionais sobre consumo consciente nas escolas.",
+                  "d) Criar centros de convivência para idosos, promovendo atividades físicas, culturais e de socialização.",
+                  "d) ”Substituir esse tipo de campanha” por “essa iniciativa”, ficando: “Essa iniciativa visa conscientizar...”",
+                  "c) “Logo, faz-se indispensável que o Ministério da Educação implemente ações nas escolas. Além disso, é fundamental que a mídia contribua, esclarecendo a população sobre o tema.”"
                ],
                "name": "Aula 5.1 - Proponha uma solução para o problema"
             },
             {
                "answers": [
-                   "c) Ministério da Educação e instituições de ensino.",
-                   "d) Desenvolver ferramentas de checagem de informações.",
-                   "e) Veiculação de conteúdos educativos nas redes sociais e na televisão.",
-                   "c) Conscientizar os estudantes sobre a importância da saúde mental.",
-                   "c) Utilizando vídeos, cartilhas e campanhas em escolas e comunidades",
-                   "a) Consequentemente, trazer bem-estar social."
+                  "c) Ministério da Educação e instituições de ensino.",
+                  "d) Desenvolver ferramentas de checagem de informações.",
+                  "e) Veiculação de conteúdos educativos nas redes sociais e na televisão.",
+                  "c) Conscientizar os estudantes sobre a importância da saúde mental.",
+                  "c) Utilizando vídeos, cartilhas e campanhas em escolas e comunidades",
+                  "a) Consequentemente, trazer bem-estar social."
                ],
                "name": "Aula 5.2 - Proponha uma solução para o problema"
             },
             {
                "answers": [
-                   "c) Convencer o leitor por meio de argumentos sobre um ponto de vista.",
-                   "b) Introdução – Desenvolvimento – Conclusão com proposta de",
-                   "c) Contextualize o tema e apresente uma tese clara.",
-                   "a) A defesa da tese com argumentos, dados e exemplos.",
-                   "d) Agente, ação, meio/modo, efeito e detalhamento.",
-                   "b) A coerência entre tese, argumentos e proposta de intervenção é fundamental para garantir a progressão textual e a defesa do ponto de vista."
+                  "c) Convencer o leitor por meio de argumentos sobre um ponto de vista.",
+                  "b) Introdução – Desenvolvimento – Conclusão com proposta de",
+                  "c) Contextualize o tema e apresente uma tese clara.",
+                  "a) A defesa da tese com argumentos, dados e exemplos.",
+                  "d) Agente, ação, meio/modo, efeito e detalhamento.",
+                  "b) A coerência entre tese, argumentos e proposta de intervenção é fundamental para garantir a progressão textual e a defesa do ponto de vista."
                ],
                "name": "Aula 6 - A sua redação é um monumento"
             },
             {
                "answers": [
-                   "d) O impacto da coleta e uso de informações pessoais sobre as escolhas dos usuários.",
-                   "c) À marginalização e preconceito enfrentados por pessoas com transtornos mentais.",
-                   "a) Apresentar soluções para o desrespeito a diferentes crenças no país.",
-                   "b) Defesa de políticas públicas de reconhecimento e respeito cultural.",
-                   "e) A desigualdade no acesso à produção e consumo de obras cinematográficas.",
-                   "b) À falta de documentação que impede o reconhecimento de direitos básicos."
+                  "d) O impacto da coleta e uso de informações pessoais sobre as escolhas dos usuários.",
+                  "c) À marginalização e preconceito enfrentados por pessoas com transtornos mentais.",
+                  "a) Apresentar soluções para o desrespeito a diferentes crenças no país.",
+                  "b) Defesa de políticas públicas de reconhecimento e respeito cultural.",
+                  "e) A desigualdade no acesso à produção e consumo de obras cinematográficas.",
+                  "b) À falta de documentação que impede o reconhecimento de direitos básicos."
                ],
                "name": "Aula 6.1 - A sua redação é um monumento"
             },
             {
                "answers": [
-                   "c) Para sustentar que a educação precisa formar pessoas críticas e éticas.",
-                   "a) Para argumentar que o autoritarismo depende da passividade dos cidadãos.",
-                   "d) Para sustentar a importância da resistência pacífica diante de injustiças.",
-                   "e) Para refletir sobre os limites da liberdade formal frente aos desejos humanos.",
-                   "b) Para exemplificar os perigos da impunidade e da desigualdade no acesso à justiça.",
-                   "e) Para destacar a importância do vínculo humano no processo de aprendizagem."
+                  "c) Para sustentar que a educação precisa formar pessoas críticas e éticas.",
+                  "a) Para argumentar que o autoritarismo depende da passividade dos cidadãos.",
+                  "d) Para sustentar a importância da resistência pacífica diante de injustiças.",
+                  "e) Para refletir sobre os limites da liberdade formal frente aos desejos humanos.",
+                  "b) Para exemplificar os perigos da impunidade e da desigualdade no acesso à justiça.",
+                  "e) Para destacar a importância do vínculo humano no processo de aprendizagem."
                ],
                "name": "Aula 6.2 - A sua redação é um monumento"
-            }
+            },
+            {
+               "answers": [
+                  "A) Explicação com uso de repertório sociocultural em sequência ao argumento principal.",
+                  "A) Explicação por meio de dados e exemplos que reforçam o argumento central. ",
+                  "B) Oposição ao senso comum com exemplificação crítica.",
+                  "D) Oposição a um repertório sociocultural consolidado, com exemplificação crítica.",
+                  "C) Confirmar a crítica por meio de exemplo externo qualificado.",
+                  "C) Uma oposição conceitual à justificativa de mérito, com base em repertório teórico."
+               ],
+               "name": "Aula 7 - Argumentar é convencer"
+            },
+            {
+               "answers": [
+                  "A) Continuidade confirmatória, por meio de dados estatísticos.",
+                  "B) Repertório teórico em oposição ao senso comum punitivista.",
+                  "E) Opor-se a um discurso hegemônico com autoridade teórica.",
+                  "A) Explicação com base em um repertório filosófico crítico ao argumento comum.",
+                  "E) Sustentar, por oposição, uma crítica ao discurso celebratório da globalização.",
+                  "D) Sustentar teoricamente uma crítica ao funcionamento atual das redes."
+               ],
+               "name": "Aula 7.1 - Argumentar é convencer"
+            },
+            {
+               "answers": [
+                  "B) Opor-se criticamente à lógica dominante com base em autoridade educacional.",
+                  "B) Fundamentar filosoficamente a oposição entre caridade e justiça social. ",
+                  "C) Explicação crítica com apoio em repertório técnico.",
+                  "C) Oposição a um discurso dominante por meio de repertório filosófico.",
+                  "D) Denunciar uma contradição entre o ideal de justiça e a prática discriminatória.",
+                  "A) Validar, com respaldo institucional, a explicação crítica sobre o conceito de inclusão digital."
+               ],
+               "name": "Aula 7.2 - Argumentar é convencer"
+            },
+            {
+               "answers": [
+                  "E) pronome pessoal que retoma um termo anterior.",
+                  "E) oposição entre o esforço e o resultado.",
+                  "D) consequência decorrente de um fato.",
+                  "D) uma oposição entre uma opinião e um fato.",
+                  "C) subordinação causal.",
+                  "B) conectivo adversativo que contrapõe fato e opinião."
+               ],
+               "name": "Aula 8 - Texto sem coesão é como feijoada sem feijão"
+            },
+            {
+               "answers": [
+                  "C) expressão anafórica que retoma o sentido de uma oração anterior.",
+                  "B) oposição entre contextos regionais distintos.",
+                  "A) oposição concessiva dentro da estrutura subordinada.",
+                  "C) uma oração subordinada adjetiva que retoma o enunciado anterior.",
+                  "E) oposição paralela entre aspectos positivos e negativos.",
+                  "D) oposição entre fato e opinião."
+               ],
+               "name": "Aula 8.1 - Texto sem coesão é como feijoada sem feijão"
+            },
+            {
+               "answers": [
+                  "E) elipse pronominal e retomada anafórica.",
+                  "C) retomada anafórica por expressão resumitiva.",
+                  "E) conector conclusivo que relaciona causa e efeito.",
+                  "A) subordinada concessiva que expressa uma ideia contrária à esperada.",
+                  "B) oposição entre evidências científicas e posicionamentos sociais.",
+                  "D) subordinação causal e concessiva para explicar e contrapor informações."
+               ],
+               "name": "Aula 8.2 - Texto sem coesão é como feijoada sem feijão"
+            },
          ],
          "title": "Redação"
       }
@@ -669,37 +1179,37 @@ const materias = {
 const subjectives = document.querySelector(".subjects")
 
 for (const materia of materias.answers) {
-    const section = document.createElement("div")
-    section.setAttribute("class", "section")
-    const title = document.createElement("h2")
-    const randomColor = `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, "0")}`;
-    title.setAttribute("style", `background: ${randomColor}; outline: 4px solid black`)
-    title.textContent = materia.title
-    section.appendChild(title)
-    for (const task of materia.lessons) {
-        const taskF = document.createElement("div")
-        taskF.setAttribute("class", "tasks")
-        taskF.setAttribute("style", `box-shadow: 6px 8px 0px 2px rgba(0, 0, 0, 0.5)`)
-        const name = document.createElement("h3")
-        name.textContent = task.name
-        name.setAttribute("style", `background: ${randomColor}`)
-        const response = document.createElement("p")
-        let answer = ``
-        let count = 1
-        for (const tk of task.answers) {
-            answer += `${count++} - ${tk}<br>` 
-        }
-        response.innerHTML = answer
-        taskF.appendChild(name)
-        taskF.appendChild(response)
-        section.appendChild(taskF)
-    }
+   const section = document.createElement("div")
+   section.setAttribute("class", "section")
+   const title = document.createElement("h2")
+   const randomColor = `#${Math.floor(Math.random() * 16777215).toString(16).padStart(6, "0")}`;
+   title.setAttribute("style", `background: ${randomColor}; outline: 4px solid black`)
+   title.textContent = materia.title
+   section.appendChild(title)
+   for (const task of materia.lessons) {
+      const taskF = document.createElement("div")
+      taskF.setAttribute("class", "tasks")
+      taskF.setAttribute("style", `box-shadow: 6px 8px 0px 2px rgba(0, 0, 0, 0.5)`)
+      const name = document.createElement("h3")
+      name.textContent = task.name
+      name.setAttribute("style", `background: ${randomColor}`)
+      const response = document.createElement("p")
+      let answer = ``
+      let count = 1
+      for (const tk of task.answers) {
+         answer += `${count++} - ${tk}<br>`
+      }
+      response.innerHTML = answer
+      taskF.appendChild(name)
+      taskF.appendChild(response)
+      section.appendChild(taskF)
+   }
 
-    subjectives.appendChild(section)
+   subjectives.appendChild(section)
 }
 
 function anna() {
-    window.open("https://www.instagram.com/naclara_cakes_confeitaria")
+   window.open("https://www.instagram.com/naclara_cakes_confeitaria")
 }
 
 
