@@ -144,7 +144,42 @@ const materias = [
                "E",
                "D"
             ]
-         }
+         },{
+“name”: “Fase 21 - Interpretação geométrica dos coeficientes da equação da reta”,
+“answer”: [“C”,“B”,“E”,“A”,“A”,“B”]
+},
+{
+“name”: “Fase 22 - Progressões: aritmética e geométrica”,
+“answer”: [“A”,”B”,”C”,”C”,”D”,”E”]
+},
+{
+“name”: “Fase 22 - Polinômios associados a modelos geométricos e situações diversas”,
+“answer”: [“B”,”E”,”D”,”A”,”C”,”C”]
+},
+{
+“name”: “Fase 23 - Máximos ou mínimos de função quadrática”,
+“answer”: [“A”,”C”,”B”,”C”,”D”,”E”]
+},
+{
+“name”: “Fase 23 - O gráfico da função afim e sua lei de formação”,
+“answer”: [“B”,”C”,”A”,”E”,”C”,”ADE”]
+},
+{
+“name”: “Fase 24 - Representação algébrica ou gráfica da função exponencial”,
+“answer”: [“D”,”D”,”B”,”E”,”C”,”A”]
+},
+{
+“name”: “Fase 25 - Representação algébrica ou gráfica da função logarítmica”,
+“answer”: [“C”,”E”,”D”,”B”,”E”,”A”]
+},
+{
+“name”: “Fase 26 - Função exponencial”,
+“answer”: [“B”,”E”,”C”,”C”,”B”,”E”]
+},
+{
+“name”: “Fase 27 - Gráficos de funções trigonométricas”,
+“answer”: [“A”,”D”,”D”,”C”,”B”,”C”]
+}
       ]
    }
 ]
@@ -184,5 +219,6 @@ for (const materia of materias) {
 function anna() {
    window.open("https://www.instagram.com/naclara_cakes_confeitaria")
 }
+
 
 
