@@ -144,11 +144,19 @@ const materias = [
                "E",
                "D"
             ]
-         },{
-“name”: “Fase 21 - Interpretação geométrica dos coeficientes da equação da reta”,
-“answer”: [“C”,“B”,“E”,“A”,“A”,“B”]
-},
-{
+         },
+         {
+            “name”: "Fase 21 - Interpretação geométrica dos coeficientes da equação da reta",
+            “answer”: [
+               “C”,
+               “B”,
+               “E”,
+               “A”,
+               "A”,
+               “B”
+            ]
+         },
+         {
 “name”: “Fase 22 - Progressões: aritmética e geométrica”,
 “answer”: [“A”,”B”,”C”,”C”,”D”,”E”]
 },
@@ -219,6 +227,7 @@ for (const materia of materias) {
 function anna() {
    window.open("https://www.instagram.com/naclara_cakes_confeitaria")
 }
+
 
 
 
